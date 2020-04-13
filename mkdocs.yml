@@ -8,4 +8,5 @@ nav:
         - Rezept 2: hauptspeisen/rezept2.md
     - Nachtische: 
         - Rezept 3: nachtische/rezept3.md
+        - Pudding mit Banane: nachtische/pudding.md
 theme: material
