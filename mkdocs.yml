@@ -2,4 +2,10 @@ site_name: Kochbuch
 nav:
     - Home: index.md
     - How to: how-to.md
+    - Vorspeisen: 
+        - Rezept 1: vorspeisen/rezept1.md
+    - Hauptspeisen: 
+        - Rezept 2: hauptspeisen/rezept2.md
+    - Nachtische: 
+        - Rezept 3: nachtische/rezept3.md
 theme: material
