@@ -1,0 +1,5 @@
+site_name: Kochbuch
+nav:
+    - Home: index.md
+    - How to: how-to.md
+theme: material
