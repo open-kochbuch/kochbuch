@@ -1,3 +1,5 @@
 # koch-buch
 
-This is the repository for the family cookbook. 
+Familienrezepte der Hedrich's & co.
+
+Siehe den [Nutzungsguide](docs/how-to.md) für eine Übersicht. 
