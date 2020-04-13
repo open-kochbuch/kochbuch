@@ -2,12 +2,16 @@
 
 Hier findest du eine Sammlung der Rezepte der Familie Hedrich & co. 
 
-## Vorspeisen
+Für eine ˝ubersicht, wie du das online Kochbuch nutzen kannst, siehe den [Nutzungsguide](how-to). 
+
+## Vorspeisen 
+
+* [Rezept 1](vorspeisen/rezept1.md)
 
 ## Hauptspeisen
 
+* [Rezept 2](hauptspeisen/rezept2.md)
+
 ## Nachtisch 
 
----
-
-[Nutzungsguide](how-to)
+* [Rezept 3](nachtische/rezept3.md)
